@@ -8,6 +8,9 @@ Literally All TikTok APIs With All Algorithms Updated
   - Comment
   - Upload
   - Message
+  - Search
+  - Video Aweme
+  - User Info
   - Edit
   - Login
   - SignUP
